@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -17,4 +18,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
