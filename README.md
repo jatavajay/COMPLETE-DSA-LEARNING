@@ -10,6 +10,7 @@
 | ------- |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,20 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
