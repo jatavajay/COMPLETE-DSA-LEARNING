@@ -69,4 +69,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0392-is-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
