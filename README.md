@@ -19,11 +19,13 @@
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
+| [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
+| [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0225-implement-stack-using-queues) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
