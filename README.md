@@ -23,6 +23,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
+| [1929-concatenation-of-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
