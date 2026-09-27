@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Memoization
 |  |
 | ------- |
