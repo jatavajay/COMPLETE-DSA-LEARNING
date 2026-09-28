@@ -89,10 +89,12 @@
 | ------- |
 | [0344-reverse-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
