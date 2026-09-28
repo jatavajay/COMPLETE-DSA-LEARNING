@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
