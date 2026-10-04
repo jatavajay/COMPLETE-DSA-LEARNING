@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
@@ -67,6 +68,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
@@ -139,6 +141,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
@@ -146,6 +149,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
@@ -168,6 +172,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
