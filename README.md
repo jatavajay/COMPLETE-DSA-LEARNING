@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
