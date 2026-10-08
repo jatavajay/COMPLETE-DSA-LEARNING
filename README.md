@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
+| [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0198-house-robber) |
@@ -70,6 +71,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
@@ -144,6 +146,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
@@ -153,6 +156,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
@@ -176,6 +180,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
