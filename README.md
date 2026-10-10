@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0136-single-number) |
@@ -48,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
 ## Backtracking
@@ -108,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
@@ -191,4 +194,12 @@
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
