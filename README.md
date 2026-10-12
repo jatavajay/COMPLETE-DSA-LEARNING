@@ -27,6 +27,7 @@
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
 | ------- |
