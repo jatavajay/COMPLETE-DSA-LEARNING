@@ -24,6 +24,7 @@
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2094-finding-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
