@@ -84,6 +84,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
@@ -158,6 +159,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -177,6 +179,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
@@ -222,4 +225,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
