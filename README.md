@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0680-valid-palindrome-ii) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
@@ -47,6 +49,7 @@
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
@@ -55,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
