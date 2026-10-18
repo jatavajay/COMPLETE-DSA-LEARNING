@@ -43,6 +43,7 @@
 | [1672-richest-customer-wealth](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2094-finding-3-digit-even-numbers) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0392-is-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
