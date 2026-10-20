@@ -18,6 +18,7 @@
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
@@ -51,6 +52,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
@@ -177,6 +179,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
