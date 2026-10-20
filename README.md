@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
@@ -114,6 +115,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -179,6 +181,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
