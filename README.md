@@ -20,6 +20,7 @@
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0078-subsets) |
@@ -162,6 +163,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
