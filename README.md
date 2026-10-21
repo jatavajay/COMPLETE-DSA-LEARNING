@@ -38,6 +38,7 @@
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
@@ -249,6 +250,7 @@
 | [0035-search-insert-position](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0704-binary-search) |
 ## Topological Sort
 |  |
 | ------- |
