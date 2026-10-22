@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0048-rotate-image) |
@@ -247,6 +248,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0300-longest-increasing-subsequence) |
