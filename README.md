@@ -46,6 +46,7 @@
 | [0994-rotting-oranges](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1929-concatenation-of-array) |
@@ -107,6 +108,7 @@
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
 |  |
@@ -198,6 +200,7 @@
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1672-richest-customer-wealth) |
 ## Depth-First Search
 |  |
@@ -208,6 +211,7 @@
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Prefix Sum
 |  |
@@ -233,6 +237,7 @@
 | [0200-number-of-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quicksort
 |  |
