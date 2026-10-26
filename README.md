@@ -52,6 +52,7 @@
 | [1929-concatenation-of-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -239,6 +243,7 @@
 | [1020-number-of-enclaves](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quicksort
 |  |
 | ------- |
