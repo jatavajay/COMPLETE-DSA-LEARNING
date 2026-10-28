@@ -53,6 +53,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0136-single-number](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -205,6 +208,7 @@
 | [1254-number-of-closed-islands](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
