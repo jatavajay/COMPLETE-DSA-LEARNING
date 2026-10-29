@@ -13,6 +13,7 @@
 | [0344-reverse-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -295,4 +296,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
