@@ -15,6 +15,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0225-implement-stack-using-queues) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
