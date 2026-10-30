@@ -12,6 +12,7 @@
 | [0205-isomorphic-strings](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -70,6 +71,7 @@
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2094-finding-3-digit-even-numbers) |
@@ -80,6 +82,7 @@
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2094-finding-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -300,4 +304,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
