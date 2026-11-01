@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
