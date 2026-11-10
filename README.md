@@ -71,6 +71,7 @@
 | [0041-first-missing-positive](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0392-is-subsequence) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -322,4 +325,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
