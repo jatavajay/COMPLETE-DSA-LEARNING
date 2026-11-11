@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0035-search-insert-position) |
@@ -83,6 +84,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0169-majority-element) |
@@ -158,6 +160,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
