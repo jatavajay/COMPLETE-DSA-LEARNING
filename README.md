@@ -178,6 +178,7 @@
 | [0141-linked-list-cycle](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
