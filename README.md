@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -210,10 +211,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 ## Graph Theory
 |  |
 | ------- |
