@@ -48,6 +48,7 @@
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
@@ -202,6 +203,7 @@
 | [0225-implement-stack-using-queues](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -353,4 +355,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
