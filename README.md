@@ -47,6 +47,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
@@ -79,6 +80,7 @@
 | [0205-isomorphic-strings](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2094-finding-3-digit-even-numbers) |
@@ -199,6 +201,7 @@
 | [0155-min-stack](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -346,4 +349,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0142-linked-list-cycle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
