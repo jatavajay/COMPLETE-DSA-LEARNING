@@ -55,6 +55,7 @@
 | [0695-max-area-of-island](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0997-find-the-town-judge) |
@@ -206,12 +207,14 @@
 | [0232-implement-queue-using-stacks](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/jatavajay/COMPLETE-DSA-LEARNING/tree/master/2390-removing-stars-from-a-string) |
